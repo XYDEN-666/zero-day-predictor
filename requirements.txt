@@ -1,0 +1,6 @@
+# For making HTTP requests to download data
+requests
+
+# For a nice progress bar during downloads
+tqdm
+GitPython

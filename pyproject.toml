@@ -1,0 +1,14 @@
+[project]
+name = "zero_day_predictor"
+version = "0.1.0"
+description = "A project to predict zero-day vulnerabilities."
+readme = "README.md"
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+# This part tells setuptools to look for packages in the 'src' directory
+[tool.setuptools.packages.find]
+where = ["src"]
