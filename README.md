@@ -5,7 +5,7 @@
 
 ![alt text](https://img.shields.io/badge/status-in%20development-orange.svg)
 Tired of reacting to vulnerabilities? What if you could predict them before they were discovered?
-Zero-Day Predictor is a cutting-edge data science project that leverages machine learning to forecast which parts of a software project are most likely to harbor undiscovered, exploitable vulnerabilities. Instead of just patching the past, we're building a "weather forecast" for future security threats, allowing developers and security teams to proactively audit the riskiest code.
+Zero-Day Predictor is a cutting-edge data science project that leverages machine learning to forecast which parts of a software project are most likely to harbor undiscovered, exploitable vulnerabilities. Instead of just patching the past, we're building a "weather forecast" for future security threats, allowing developers and security teams to proactively audit the riskiest code.:)
 !
 <p align="center">An example of our model explaining WHY a file is predicted to be high-risk.</p>
 ✨ The Core Idea
